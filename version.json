@@ -2,6 +2,6 @@
   "versionCode": 3,
   "versionName": "1.2",
   "apkUrl": "https://prem7654.github.io/hujra-shah-muqeem/",
-  "forceUpdate": false,
-  "changelog": "Update popup test build"
+  "forceUpdate": true,
+  "changelog": "Mandatory update required"
 }
