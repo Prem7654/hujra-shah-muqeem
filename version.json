@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apkUrl": "https://prem7654.github.io/hujra-shah-muqeem/",
   "forceUpdate": false,
-  "changelog": "Safe browser-based updater fix"
+  "changelog": "Update popup test build"
 }
