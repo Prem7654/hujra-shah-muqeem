@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/Prem7654/hujra-shah-muqeem/releases/download/v1.0/Hujra-Shah-Muqeem.apk",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://prem7654.github.io/hujra-shah-muqeem/",
   "forceUpdate": false,
-  "changelog": "First public APK release"
+  "changelog": "Safe browser-based updater fix"
 }
