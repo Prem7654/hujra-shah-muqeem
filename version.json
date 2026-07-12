@@ -1,7 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "app shutdown",
-  "apkUrl": "https://github.com/Prem7654/hujra-shah-muqeem",
+  "appEnabled": true,
+  "shutdownMessage": "App temporarily unavailable. Please try again later.",
+  "versionCode": 10,
+  "versionName": "1.10",
+  "apkUrl": "YOUR_V1.10_GITHUB_RELEASE_APK_URL",
   "forceUpdate": true,
-  "changelog": "app shutdown"
+  "changelog": "Remote shutdown control added."
 }
