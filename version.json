@@ -3,7 +3,7 @@
   "shutdownMessage": "App temporarily unavailable. Please try again later.",
   "versionCode": 10,
   "versionName": "1.10",
-  "apkUrl": "YOUR_V1.10_GITHUB_RELEASE_APK_URL",
+  "apkUrl": "https://github.com/Prem7654/hujra-shah-muqeem/releases/download/v1.10/Hujra-Shah-Muqeem-1.10.apk",
   "forceUpdate": true,
   "changelog": "Remote shutdown control added."
 }
