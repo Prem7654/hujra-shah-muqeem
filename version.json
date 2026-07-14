@@ -1,9 +1,9 @@
 {
   "appEnabled": true,
   "shutdownMessage": "App temporarily unavailable. Please try again later.",
-  "versionCode": 13,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/Prem7654/hujra-shah-muqeem/releases/download/v1.13/Hujra-Shah-Muqeem-v1.13.apk",
+  "versionCode": 15,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/Prem7654/hujra-shah-muqeem/releases/download/v1.15/Hujra-Shah-Muqeem-v1.15.apk",
   "forceUpdate": true,
-  "changelog": "1.13."
+  "changelog": "1.15."
 }
